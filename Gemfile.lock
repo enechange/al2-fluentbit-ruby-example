@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    fluent-logger (0.9.0)
+      msgpack (>= 1.0.0, < 2)
+    msgpack (1.4.5)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  fluent-logger
+
+BUNDLED WITH
+   2.2.32
